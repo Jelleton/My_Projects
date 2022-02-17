@@ -1,2 +1,3 @@
-# My_Projects
-This is a repository containing all my projects that I have been working on. Whether it be on python or c++ or even.... java 
+# Traffic_Camera_Data_Analysis
+A quick project on graphing the path and speed of three cars going to the same shop, but taking different routes. Data captured by hypothetical traffic cameras. 
+Also explores into which car got detected by which traffic camera, and seeing their speeds at those capture points. 
